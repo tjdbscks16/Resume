@@ -34,6 +34,13 @@ http://tjdbscks16.github.com
 ## 🔔자격증
 ---
 **Microsoft Excel Expert (Office 2016)**
+***
+## 	✏️비교과프로그램
+- [SW전공멘토링] 2021-1학기 소프트웨어융합대학 전공 멘토링
+- [SW전문가 명품 특강] 오픈소스 개요
+- [글로벌 SW전문가 특강] Introduction to Intelligent Algorithms for Automated Vehicle Systems
+- [SW전문가 명품 특강] 선배가 바라는 SW신입사원 (삼성전자 손기성 수석)
+- [SW전문가 명품 특강] 제품 내장형 AI 동향
 
 
 
