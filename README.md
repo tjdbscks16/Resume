@@ -42,6 +42,8 @@ http://tjdbscks16.github.com
 - [SW전문가 명품 특강] 선배가 바라는 SW신입사원 (삼성전자 손기성 수석)
 - [SW전문가 명품 특강] 제품 내장형 AI 동향
 
+## 📝시험
+- **[SW Week 대회] 2021 Coding Festival**
 
 
 
