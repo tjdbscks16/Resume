@@ -11,6 +11,6 @@
 * 📧Email  
 ryon0316@naver.com
 * Github
-tjdbscks16.github.com
+http://tjdbscks16.github.com
 
 
