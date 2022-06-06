@@ -29,6 +29,10 @@ http://tjdbscks16.github.com
 |11|소프트웨어세미나1|1학점|
 |12|소프트웨어세미나3|1학점|
 |13|소프트웨어세미나4|1학점|
+***
+## 🔔자격증
+**Microsoft Excel Expert (Office 2016)**
+
 
 
 
