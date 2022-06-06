@@ -10,7 +10,7 @@
   - **부전공 : 스마트 IOT** 
 * 📧Email  
 ryon0316@naver.com
-* Github
+* Github<br>
 http://tjdbscks16.github.com
 
 
