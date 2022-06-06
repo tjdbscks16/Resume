@@ -10,5 +10,8 @@
   - **부전공 : 스마트 IOT** 
 * 📧Email  
 ryon0316@naver.com
+*![image](https://user-images.githubusercontent.com/93811112/172120721-16d73f2a-74ac-4345-8d50-502078321164.png)
+ Github 
+ryon0316@naver.com
 
 
