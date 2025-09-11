@@ -48,6 +48,7 @@ http://tjdbscks16.github.com
 - **Microsoft Excel Expert (Office 2016)**
 - **Microsoft Word Expert (Office 2016)**
 - **Microsoft Access(0ffice 2016)**
+- **리눅스마스터 2급**
 ***
 ## 	✏️비교과프로그램
 - [SW전공멘토링] 2021-1학기 소프트웨어융합대학 전공 멘토링
