@@ -14,14 +14,14 @@ ryon0316@naver.com
 http://tjdbscks16.github.com
 ***
 ## 학습한 언어
----
+
 - **java**
 - **python**
 - **C**
 - **Dart**
 ***
 ## 	📚수강 과목(전공)
----
+
 📚 Academic Record (Selected Coursework)
 
 - 이산구조론 — **A+**
@@ -44,7 +44,7 @@ http://tjdbscks16.github.com
 
 ***
 ## 🔔자격증
----
+
 - **Microsoft Office Specialist 2016 Master**
 - **리눅스마스터 2급**
 ***
